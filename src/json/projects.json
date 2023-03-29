@@ -1,7 +1,7 @@
 [
     {
       "name": "Portfólio",
-      "img": "src/assets/portfolio-banner.png",
+      "img": "https://github.com/gaeiki/gabriel-eiki.dev/blob/main/src/assets/portfolio-banner.png?raw=true",
       "github_link": "",
       "live_link": ""
     },
