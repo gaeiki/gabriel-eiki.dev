@@ -7,25 +7,25 @@
     },
     {
       "name": "Organo",
-      "img": "src/assets/organo-banner.png",
+      "img": "https://github.com/gaeiki/gabriel-eiki.dev/blob/main/src/assets/organo-banner.png?raw=true",
       "github_link": "https://github.com/gaeiki/organo",
       "live_link": "https://organo-gamma-eight.vercel.app/"
     },
     {
       "name": "Olá Mundo",
-      "img": "src/assets/ola-mundo-banner.png",
+      "img": "https://github.com/gaeiki/gabriel-eiki.dev/blob/main/src/assets/ola-mundo-banner.png?raw=true",
       "github_link": "https://github.com/gaeiki/ola-mundo",
       "live_link": "https://ola-mundo-three-phi.vercel.app/"
     },
     {
       "name": "Secret Number",
-      "img": "src/assets/numero-secreto-banner.png",
+      "img": "https://github.com/gaeiki/gabriel-eiki.dev/blob/main/src/assets/numero-secreto-banner.png?raw=true",
       "github_link": "https://github.com/gaeiki/jogo-numero-secreto",
       "live_link": "https://jogo-numero-secreto-blue.vercel.app/"
     },
     {
       "name": "Alura Space",
-      "img": "src/assets/alura-space-banner.png",
+      "img": "https://github.com/gaeiki/gabriel-eiki.dev/blob/main/src/assets/alura-space-banner.png?raw=true",
       "github_link": "https://github.com/gaeiki/alura-space",
       "live_link": "https://alura-space-coral.vercel.app/"
     }
