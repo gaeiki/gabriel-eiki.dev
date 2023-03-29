@@ -1,0 +1,32 @@
+[
+    {
+      "name": "Portfólio",
+      "img": "src/assets/portfolio-banner.png",
+      "github_link": "",
+      "live_link": ""
+    },
+    {
+      "name": "Organo",
+      "img": "src/assets/organo-banner.png",
+      "github_link": "https://github.com/gaeiki/organo",
+      "live_link": "https://organo-gamma-eight.vercel.app/"
+    },
+    {
+      "name": "Olá Mundo",
+      "img": "src/assets/ola-mundo-banner.png",
+      "github_link": "https://github.com/gaeiki/ola-mundo",
+      "live_link": "https://ola-mundo-three-phi.vercel.app/"
+    },
+    {
+      "name": "Secret Number",
+      "img": "src/assets/numero-secreto-banner.png",
+      "github_link": "https://github.com/gaeiki/jogo-numero-secreto",
+      "live_link": "https://jogo-numero-secreto-blue.vercel.app/"
+    },
+    {
+      "name": "Alura Space",
+      "img": "src/assets/alura-space-banner.png",
+      "github_link": "https://github.com/gaeiki/alura-space",
+      "live_link": "https://alura-space-coral.vercel.app/"
+    }
+  ]

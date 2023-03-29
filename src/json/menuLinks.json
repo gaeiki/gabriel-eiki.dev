@@ -1,0 +1,22 @@
+[
+    {
+      "name": "Início",
+      "link": "#home"
+    },
+    {
+      "name": "Sobre",
+      "link": "#about"
+    },
+    {
+      "name": "Projetos",
+      "link": "#portfolio"
+    },
+    {
+      "name": "Habilidades",
+      "link": "#skills"
+    },
+    {
+      "name": "Contato",
+      "link": "#contact"
+    }
+  ]

@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Python",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
+      "mainColor": "#407DAF",
+      "level": ""
+    },
+    {
+      "name": "Illustrator",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg",
+      "mainColor": "#1E293B",
+      "level": ""
+    },
+    {
+      "name": "Figma",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg",
+      "mainColor": "#FF7262",
+      "level": ""
+    }
+  ]
