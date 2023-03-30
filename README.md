@@ -21,7 +21,7 @@
 ---
 
 ## 🌐 Access the project
-https://organo-gamma-eight.vercel.app/
+https://gabriel-eiki-dev.vercel.app/
 
 ## ⚙️ Functionalities
 

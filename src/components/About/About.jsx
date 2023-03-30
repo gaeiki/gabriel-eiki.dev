@@ -27,16 +27,16 @@ export default function About() {
           <a
             href={curriculo}
             download
-            className="button-custom border-sky-700 hover:bg-gray-500/25 dark:hover:bg-gray-200/10"
+            className="button-custom border-sky-700 hover:bg-gray-500/25 dark:hover:bg-gray-200/10 text-gray-800 dark:text-gray-100"
           >
-            <BsFillCloudArrowDownFill className="text-gray-100" />
-            <span className="text-xl dark:text-gray-100">Currículo</span>
+            <BsFillCloudArrowDownFill />
+            <span className="text-xl text-gray-800 dark:text-gray-100">Currículo</span>
           </a>
           <a
             href="mailto:gabueiki96@gmail.com"
-            className="button-custom border-[#DE4032]  hover:bg-gray-500/25 dark:hover:bg-gray-200/10"
+            className="button-custom border-sky-700  hover:bg-gray-500/25 dark:hover:bg-gray-200/10 text-gray-800 dark:text-gray-100"
           >
-            <BsFillEnvelopeAtFill className="dark:text-gray-100" />
+            <BsFillEnvelopeAtFill />
             <span className="text-xl dark:text-gray-100">E-mail</span>
           </a>
         </div>
