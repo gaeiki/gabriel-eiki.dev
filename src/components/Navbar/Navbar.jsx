@@ -13,11 +13,11 @@ export default function Navbar() {
       <nav className={`navbar`}>
         <div className="h-20 flex items-center">
           <div className="mx-7 w-full">
-              <h4 >
+              <h4>
                 <a href="#home" className="text-sky-600 text-xl hover:text-teal-400 transition duration-300">
                   ‹GEO/›
                 </a>  
-              </h4>        
+              </h4>
           </div>
           <div className="text-gray-100 hidden md:block px-7 py-2 ">
             <NavLinks />
