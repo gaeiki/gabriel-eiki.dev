@@ -1,5 +1,5 @@
 import skills from "../../json/skills.json";
-import secondSkills from "../../json/SecondSkills.json";
+import secondSkills from "../../json/secondSkills.json";
 import SkillsBelt from "../SkillsBelt/SkillsBelt";
 
 export default function Skills() {

@@ -18,6 +18,12 @@
       "level": 90
     },
     {
+      "name": "TypeScript",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg",
+      "mainColor": "#007ACC",
+      "level": 70
+    },
+    {
       "name": "ReactJS",
       "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
       "mainColor": "#61DAFB",
