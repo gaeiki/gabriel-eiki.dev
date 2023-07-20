@@ -31,7 +31,7 @@
   },
   {
     "name": "Teste Dot",
-    "img": "D:/Documentos/Projetos/personal-portfolio/src/assets/dot-edtech.png",
+    "img": "https://github.com/gaeiki/gabriel-eiki.dev/blob/main/src/assets/dot-edtech.png?raw=true",
     "github_link": "https://github.com/gaeiki/teste-frontend-edtech-dot",
     "live_link": "https://teste-frontend-edtech-dot.vercel.app/"
   }
