@@ -28,5 +28,11 @@
     "img": "https://github.com/gaeiki/gabriel-eiki.dev/blob/main/src/assets/alura-space-banner.png?raw=true",
     "github_link": "https://github.com/gaeiki/alura-space",
     "live_link": "https://alura-space-coral.vercel.app/"
+  },
+  {
+    "name": "Teste Dot",
+    "img": "D:/Documentos/Projetos/personal-portfolio/src/assets/dot-edtech.png",
+    "github_link": "https://github.com/gaeiki/teste-frontend-edtech-dot",
+    "live_link": "https://teste-frontend-edtech-dot.vercel.app/"
   }
 ]
