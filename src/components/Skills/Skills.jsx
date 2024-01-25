@@ -16,7 +16,7 @@ export default function Skills() {
       </div>
       <div className="flex items-center justify-center mt-4 flex-wrap">
         {skills.map((skill, i) => (
-          <SkillsBelt skill={skill} i={i} />
+          <SkillsBelt skill={skill} key={i} />
         ))}
       </div>
       <div className="flex flex-col items-center">
@@ -26,7 +26,7 @@ export default function Skills() {
       </div>
       <div className="flex items-center justify-center flex-wrap">
         {secondSkills.map((skill, i) => (
-          <SkillsBelt skill={skill} i={i} />
+          <SkillsBelt skill={skill} key={i} />
         ))}
       </div>
     </section>

@@ -7,12 +7,12 @@ export default function SkillsBelt({ i, skill }) {
             key={i}
           >
             <div
-              style={{
-                background: `conic-gradient(${skill.mainColor} ${skill.level}%, transparent ${skill.level}%)`,
-              }}
+              // style={{
+              //   background: `conic-gradient(${skill.mainColor} ${skill.level}%, transparent ${skill.level}%)`,
+              // }} Opção com círculo evolução
               className="w-20 aspect-square flex items-center justify-center rounded-full"
             >
-              <div className="text-6xl w-16 aspect-square bg-light-100 dark:bg-dark-200 rounded-full flex items-center justify-center duration-300">
+              <div className="text-6xl w-16 aspect-square bg-light-100 dark:bg-dark-100 rounded-full flex items-center justify-center duration-300">
                 <img
                   src={skill.src}
                   alt={skill.name}
@@ -21,9 +21,9 @@ export default function SkillsBelt({ i, skill }) {
                 />
               </div>
             </div>
-            <p className="text-xl mt-3 text-gray-800 dark:text-gray-100">
+            <span className="text-xl mt-1 text-gray-800 dark:text-gray-100">
               {skill.name}
-            </p>
+            </span>
           </div>
   )
 }
