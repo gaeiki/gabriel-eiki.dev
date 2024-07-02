@@ -6,15 +6,22 @@
       "level": ""
     },
     {
+      "name": "JQuery",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg",
+      "mainColor": "#0868AC",
+      "level": 80
+    },
+    {
+      "name": "Tailwind",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg",
+      "mainColor": "#38B2AC",
+      "level": 60
+    },
+    {
       "name": "Illustrator",
       "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg",
       "mainColor": "#1E293B",
       "level": ""
-    },
-    {
-      "name": "Figma",
-      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg",
-      "mainColor": "#FF7262",
-      "level": ""
     }
+    
   ]
