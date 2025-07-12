@@ -36,6 +36,12 @@
       "level": 60
     },
     {
+      "name": "Kotlin",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg",
+      "mainColor": "#EA2D2E",
+      "level": 60
+    },
+    {
       "name": "NodeJS",
       "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg",
       "mainColor": "#83CD29",
@@ -46,6 +52,12 @@
       "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg",
       "mainColor": "#F34F29",
       "level": 80
+    },
+    {
+      "name": "PostgreSQL",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg",
+      "mainColor": "#FF7262",
+      "level": ""
     },
     {
       "name": "MySQL",
