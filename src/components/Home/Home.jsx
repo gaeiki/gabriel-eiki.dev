@@ -13,7 +13,7 @@ export default function Home() {
                     typewriter.typeString("Gabriel Eiki").start();
                 }} />
             </h1>
-            <h4 className='text-3xl text-gray-700 dark:text-gray-100 selection:bg-[#00d2df]'>Desenvolvedor Front-end</h4>
+            <h4 className='text-3xl text-gray-700 dark:text-gray-100 selection:bg-[#00d2df]'>Desenvolvedor Full Stack</h4>
 
             <div className="my-4">
                 <ul className="flex flex-col gap-y-1 text-gray-800 dark:text-gray-100 duration-300">
