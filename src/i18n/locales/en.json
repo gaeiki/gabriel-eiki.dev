@@ -1,0 +1,58 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "portfolio": "Projects",
+    "skills": "Skills",
+    "contact": "Contact"
+  },
+  "home": {
+    "greeting": "Hello! I am",
+    "name": "Gabriel Eiki",
+    "role": "Full Stack Developer",
+    "coffee": "☕ Fueled by coffee",
+    "engineer": "🎓 Mechatronics Engineer",
+    "resident": "🌎 Based in Floripa (BR)",
+    "cycling": "🚴‍♂️ Cycling around...",
+    "programmerAlt": "Person sitting and coding",
+    "imageBy": "Image by storyset"
+  },
+  "about": {
+    "title": "About me",
+    "photoAlt": "Photo of Gabriel smiling",
+    "bio": "Hello! My name is Gabriel and I am a constantly evolving front-end developer. Since graduating in Mechatronics Engineering, I have dedicated myself to studying and practicing web development tools and languages, with an emphasis on React. My mission is to use my knowledge and skills to create interfaces and technologies that make a real difference in people's lives. I am always open to new challenges and learning opportunities, and I look forward to contributing to incredible projects in the future. If you'd like to chat, feel free to reach out on my social media—it will be a pleasure! 👋",
+    "resume": "Resume",
+    "email": "Email"
+  },
+  "portfolio": {
+    "title": "Projects",
+    "sourceCode": "Source Code",
+    "liveDemo": "Live Demo",
+    "projects": {
+      "portfolio": "Portfolio",
+      "organo": "Organo",
+      "olaMundo": "Hello World",
+      "secretNumber": "Secret Number",
+      "aluraSpace": "Alura Space",
+      "testeDot": "Dot Test"
+    }
+  },
+  "skills": {
+    "title": "Skills",
+    "proficiency": "Proficiency with:",
+    "other": "Other knowledge:"
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "If you are interested in chatting, you can reach me through the following channels:"
+  },
+  "footer": {
+    "developedBy": "Developed with ❤ by "
+  },
+  "language": {
+    "pt": "Português",
+    "en": "English",
+    "es": "Español",
+    "select": "Select language"
+  }
+}

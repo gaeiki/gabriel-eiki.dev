@@ -1,0 +1,58 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Sobre mí",
+    "portfolio": "Proyectos",
+    "skills": "Habilidades",
+    "contact": "Contacto"
+  },
+  "home": {
+    "greeting": "¡Hola! Soy",
+    "name": "Gabriel Eiki",
+    "role": "Desarrollador Full Stack",
+    "coffee": "☕ Impulsado por café",
+    "engineer": "🎓 Ingeniero Mecatrónico",
+    "resident": "🌎 Residente en Floripa (BR)",
+    "cycling": "🚴‍♂️ Pedaleando por ahí...",
+    "programmerAlt": "Persona sentada programando",
+    "imageBy": "Image by storyset"
+  },
+  "about": {
+    "title": "Sobre mí",
+    "photoAlt": "Foto de Gabriel sonriendo",
+    "bio": "¡Hola! Mi nombre es Gabriel y soy un desarrollador front-end en constante evolución. Desde que me gradué en Ingeniería Mecatrónica, me he dedicado al estudio y la práctica de las herramientas y lenguajes del desarrollo web, con énfasis en React. Mi misión es utilizar mis conocimientos y habilidades para crear interfaces y tecnologías que marquen la diferencia en la vida de las personas. Siempre estoy abierto a nuevos desafíos y oportunidades de aprendizaje, y espero poder contribuir en proyectos increíbles en el futuro. Si estás interesado en conversar, ¡escríbeme en mis redes, será un placer! 👋",
+    "resume": "Currículum",
+    "email": "Correo"
+  },
+  "portfolio": {
+    "title": "Proyectos",
+    "sourceCode": "Código Fuente",
+    "liveDemo": "Live Demo",
+    "projects": {
+      "portfolio": "Portafolio",
+      "organo": "Organo",
+      "olaMundo": "Hola Mundo",
+      "secretNumber": "Secret Number",
+      "aluraSpace": "Alura Space",
+      "testeDot": "Prueba Dot"
+    }
+  },
+  "skills": {
+    "title": "Habilidades",
+    "proficiency": "Competencia con:",
+    "other": "Otros conocimientos:"
+  },
+  "contact": {
+    "title": "Contacto",
+    "description": "Si estás interesado en charlar, puedes encontrarme en los siguientes canales:"
+  },
+  "footer": {
+    "developedBy": "Desarrollado con ❤ por "
+  },
+  "language": {
+    "pt": "Português",
+    "en": "English",
+    "es": "Español",
+    "select": "Seleccionar idioma"
+  }
+}
